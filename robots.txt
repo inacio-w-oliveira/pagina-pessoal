@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inacio-w-oliveira.github.io/pagina-pessoal/sitemap.xml
