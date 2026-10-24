@@ -14,7 +14,7 @@ export const translations = {
     'nav.contact': 'Contato',
     'nav.menu': 'Abrir menu',
     'nav.close': 'Fechar menu',
-    'brand.label': 'IO — Inácio W. Oliveira, página inicial',
+    'brand.label': 'Inácio W. Oliveira, página inicial',
 
     'lang.pt': 'Português',
     'lang.en': 'Inglês',
@@ -88,7 +88,7 @@ export const translations = {
     'nav.contact': 'Contact',
     'nav.menu': 'Open menu',
     'nav.close': 'Close menu',
-    'brand.label': 'IO — Inácio W. Oliveira, home',
+    'brand.label': 'Inácio W. Oliveira, home',
 
     'lang.pt': 'Portuguese',
     'lang.en': 'English',
